@@ -1,0 +1,33 @@
+.container {
+	width: 74%;
+	position: relative;
+	float: right;
+}
+
+a.post {
+	position: relative;
+	margin: 4% 4% 0% 4%;
+	border: 2px solid black;
+	display: block;
+	font-size: xx-large;
+	color: black;
+	text-align: center;
+	font-style: italic;
+}
+
+a.post:first-child {
+	margin-top: 0%;
+}
+
+.postSpan{
+	margin: 0% 0% 0% 4%;
+}
+
+.nav {
+	float: left;
+	width: 23%;
+	position: relative;
+	border: 2px solid black;
+	height: 500px;
+	padding: 1%;
+}

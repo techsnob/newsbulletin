@@ -1,0 +1,15 @@
+1. Dump the news_bulletin.csv into local database.
+2. Extract the newbulletin.zip into sts or eclipse.
+3. Change the database details to yours.
+4. Run the application as Springboot
+5. Hit the below url in the browser:
+http://localhost:8081/newsbulletin/index.html
+
+Technologies used:
+Spring boot - 2.x.x
+Spring RestFul services
+Spring data jpa
+Java 1.8
+HTML 5
+CSS 3
+JQuery 3.3.x

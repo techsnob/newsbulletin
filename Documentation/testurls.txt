@@ -1,0 +1,7 @@
+Application launch url
+http://localhost:8081/newsbulletin/index.html
+
+Rest api Urls
+http://localhost:8081/newsbulletin/api/get?page=0
+http://localhost:8081/newsbulletin/api/getBulletinById/12345678
+
